@@ -1,36 +1,36 @@
-Problem Statement
+**Problem Statement**
 
 Today's investors rely on scattered information across multiple websites and reports.
 
 There is no unified platform that combines:
 
-Property data
-Demographics
-Economic indicators
-Infrastructure
-Environmental risks
+--Property data
+--Demographics
+--Economic indicators
+--Infrastructure
+--Environmental risks
 
 into one AI-powered decision support system.
 
-Vision
+**Vision**
 
 Build an intelligent platform that predicts future land values and explains the factors driving those predictions.
 
-Target Users
+-- Target Users
 
-Primary
+-- Primary
 
-Land investors
+-- Land investors
 
-Secondary
+-- Secondary
 
-Real estate developers
+-- Real estate developers
 
-Future
+**Future**
 
-Banks
-Government agencies
-Insurance companies
-Business Goal
+-- Banks
+-- Government agencies
+-- Insurance companies
+-- Business Goal
 
 Help users identify land with strong appreciation potential while understanding the opportunities and risks.
